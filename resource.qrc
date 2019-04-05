@@ -1,0 +1,355 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/imgs">
+        <file>resources/flash.png</file>
+        <file>resources/Flashlight.png</file>
+        <file>resources/ic_arrow_back_black_48dp_1x.png</file>
+        <file>resources/ic_arrow_back_black_48dp_2x.png</file>
+        <file>resources/ic_arrow_downward_black_48dp_1x.png</file>
+        <file>resources/ic_arrow_downward_black_48dp_2x.png</file>
+        <file>resources/ic_arrow_forward_black_48dp_1x.png</file>
+        <file>resources/ic_arrow_forward_black_48dp_2x.png</file>
+        <file>resources/ic_arrow_upward_black_48dp_1x.png</file>
+        <file>resources/ic_arrow_upward_black_48dp_2x.png</file>
+        <file>resources/ZorkBackground.jpg</file>
+        <file>resources/Bonus/Poop/shape 1412.png</file>
+        <file>resources/Bonus/Poop/shape 1413.png</file>
+        <file>resources/Bonus/Poop/shape 1414.png</file>
+        <file>resources/Bonus/Poop/shape 1415.png</file>
+        <file>resources/Bonus/Poop/shape 1416.png</file>
+        <file>resources/Bonus/Poop/shape 1420.png</file>
+        <file>resources/Bonus/Poop/shape 5159.png</file>
+        <file>resources/Bonus/Poop/shape 5164.png</file>
+        <file>resources/Bonus/Poop/shape 5165.png</file>
+        <file>resources/Bonus/Poop/shape 5166.png</file>
+        <file>resources/Bonus/Poop/shape 5167.png</file>
+        <file>resources/Bonus/Poop/shape 5754.png</file>
+        <file>resources/Bonus/Poop/shape 5755.png</file>
+        <file>resources/Bonus/Poop/shape 5756.png</file>
+        <file>resources/Bonus/Poop/shape 5757.png</file>
+        <file>resources/Bonus/Poop/shape 5758.png</file>
+        <file>resources/Bonus/Poop/shape 5761.png</file>
+        <file>resources/Bonus/Poop/shape 5765.png</file>
+        <file>resources/Bonus/Poop/shape 5766.png</file>
+        <file>resources/Bonus/Poop/shape 5767.png</file>
+        <file>resources/Bonus/Poop/shape 5768.png</file>
+        <file>resources/Bonus/Golden God.png</file>
+        <file>resources/Bonus/Guppy Head.png</file>
+        <file>resources/Bonus/Loading_screen_Crypts.png</file>
+        <file>resources/Bonus/logo.png</file>
+        <file>resources/Bonus/Mask of Infamy.png</file>
+        <file>resources/Bonus/Platinum God.png</file>
+        <file>resources/Bonus/Stop Playing.png</file>
+        <file>resources/Bonus/the_end.png</file>
+        <file>resources/Bonus/un-used shop sprite.png</file>
+        <file>resources/Cards/0.png</file>
+        <file>resources/Cards/1.png</file>
+        <file>resources/Cards/10.png</file>
+        <file>resources/Cards/11.png</file>
+        <file>resources/Cards/12.png</file>
+        <file>resources/Cards/13.png</file>
+        <file>resources/Cards/14.png</file>
+        <file>resources/Cards/15.png</file>
+        <file>resources/Cards/16.png</file>
+        <file>resources/Cards/17.png</file>
+        <file>resources/Cards/18.png</file>
+        <file>resources/Cards/19.png</file>
+        <file>resources/Cards/2.png</file>
+        <file>resources/Cards/20.png</file>
+        <file>resources/Cards/21.png</file>
+        <file>resources/Cards/3.png</file>
+        <file>resources/Cards/4.png</file>
+        <file>resources/Cards/5.png</file>
+        <file>resources/Cards/6.png</file>
+        <file>resources/Cards/7.png</file>
+        <file>resources/Cards/8.png</file>
+        <file>resources/Cards/9.png</file>
+        <file>resources/Cards/clubs.png</file>
+        <file>resources/Cards/diamonds.png</file>
+        <file>resources/Cards/hearts.png</file>
+        <file>resources/Cards/joker.png</file>
+        <file>resources/Cards/spades.png</file>
+        <file>resources/Characters/Cain.png</file>
+        <file>resources/Characters/Dead_Baby.png</file>
+        <file>resources/Characters/Eve.png</file>
+        <file>resources/Characters/Guppy.png</file>
+        <file>resources/Characters/Isaac.png</file>
+        <file>resources/Characters/Judas.png</file>
+        <file>resources/Characters/Maggy.png</file>
+        <file>resources/Characters/Samson.png</file>
+        <file>resources/Consumables/1+1 free.png</file>
+        <file>resources/Consumables/blue pill.png</file>
+        <file>resources/Consumables/blue-green pill.png</file>
+        <file>resources/Consumables/blue-white pill.png</file>
+        <file>resources/Consumables/bomb.png</file>
+        <file>resources/Consumables/chest.png</file>
+        <file>resources/Consumables/container.png</file>
+        <file>resources/Consumables/dime.png</file>
+        <file>resources/Consumables/empty container.png</file>
+        <file>resources/Consumables/eternal container.png</file>
+        <file>resources/Consumables/eternal heart.png</file>
+        <file>resources/Consumables/golden key.png</file>
+        <file>resources/Consumables/half container.png</file>
+        <file>resources/Consumables/half red heart.png</file>
+        <file>resources/Consumables/half spirit container.png</file>
+        <file>resources/Consumables/key.png</file>
+        <file>resources/Consumables/mr mega.png</file>
+        <file>resources/Consumables/nickel.png</file>
+        <file>resources/Consumables/penny.png</file>
+        <file>resources/Consumables/poison bomb.png</file>
+        <file>resources/Consumables/red heart.png</file>
+        <file>resources/Consumables/red pill.png</file>
+        <file>resources/Consumables/red-white pill.png</file>
+        <file>resources/Consumables/shape 2026.png</file>
+        <file>resources/Consumables/shape 2043.png</file>
+        <file>resources/Consumables/spirit container.png</file>
+        <file>resources/Consumables/spirit heart.png</file>
+        <file>resources/Consumables/super troll bomb.png</file>
+        <file>resources/Consumables/trolololo.png</file>
+        <file>resources/Consumables/white pill.png</file>
+        <file>resources/Consumables/yellow pill.png</file>
+        <file>resources/Consumables/yellow-orange pill.png</file>
+        <file>resources/Consumables/yellow-white pill.png</file>
+        <file>resources/Items/100_little_steve.png</file>
+        <file>resources/Items/101_the_halo.png</file>
+        <file>resources/Items/102_moms_bottle_of_pills.png</file>
+        <file>resources/Items/103_the_common_cold.png</file>
+        <file>resources/Items/104_the_parasite.png</file>
+        <file>resources/Items/105_the_dice.png</file>
+        <file>resources/Items/106_mr_mega.png</file>
+        <file>resources/Items/107_the_pinking_shears.png</file>
+        <file>resources/Items/108_the_wafer.png</file>
+        <file>resources/Items/109_money_equals_power.png</file>
+        <file>resources/Items/10_halo_of_flies.png</file>
+        <file>resources/Items/110_moms_contacts.png</file>
+        <file>resources/Items/111_the_bean.png</file>
+        <file>resources/Items/112_guardian_angel.png</file>
+        <file>resources/Items/113_demon_baby.png</file>
+        <file>resources/Items/114_moms_knife.png</file>
+        <file>resources/Items/115_ouija_board.png</file>
+        <file>resources/Items/116_9_volt.png</file>
+        <file>resources/Items/117_dead_bird.png</file>
+        <file>resources/Items/118_brimstone.png</file>
+        <file>resources/Items/119_blood_bag.png</file>
+        <file>resources/Items/11_1up.png</file>
+        <file>resources/Items/120_odd_mushroom_thin.png</file>
+        <file>resources/Items/121_odd_mushroom_thick.png</file>
+        <file>resources/Items/122_whore_of_babylon.png</file>
+        <file>resources/Items/123_monster_manuel.png</file>
+        <file>resources/Items/124_dead_sea_scrolls.png</file>
+        <file>resources/Items/125_bobby_bomb.png</file>
+        <file>resources/Items/126_razor_blade.png</file>
+        <file>resources/Items/127_forget_me_now.png</file>
+        <file>resources/Items/128_forever_alone.png</file>
+        <file>resources/Items/129_bucket_of_lard.png</file>
+        <file>resources/Items/12_magic_mushroom.png</file>
+        <file>resources/Items/130_a_pony.png</file>
+        <file>resources/Items/131_bomb_bag.png</file>
+        <file>resources/Items/132_a_lump_of_coal.png</file>
+        <file>resources/Items/133_guppys_paw.png</file>
+        <file>resources/Items/134_guppys_tail.png</file>
+        <file>resources/Items/135_iv_bag.png</file>
+        <file>resources/Items/136_best_friend.png</file>
+        <file>resources/Items/137_remote_detonator.png</file>
+        <file>resources/Items/138_stigmata.png</file>
+        <file>resources/Items/139_moms_purse.png</file>
+        <file>resources/Items/13_the_virus.png</file>
+        <file>resources/Items/140_bobs_curse.png</file>
+        <file>resources/Items/141_pageant_boy.png</file>
+        <file>resources/Items/142_scapular.png</file>
+        <file>resources/Items/143_speed_ball.png</file>
+        <file>resources/Items/144_bum_friend.png</file>
+        <file>resources/Items/145_guppys_head.png</file>
+        <file>resources/Items/146_prayer_card.png</file>
+        <file>resources/Items/147_notched_axe.png</file>
+        <file>resources/Items/148_infestation.png</file>
+        <file>resources/Items/149_ipecac.png</file>
+        <file>resources/Items/14_roid_rage.png</file>
+        <file>resources/Items/150_tough_love.png</file>
+        <file>resources/Items/151_the_mulligan.png</file>
+        <file>resources/Items/152_technology_2.png</file>
+        <file>resources/Items/153_mutant_spider.png</file>
+        <file>resources/Items/154_chemical_peel.png</file>
+        <file>resources/Items/155_the_peeper.png</file>
+        <file>resources/Items/156_the_habit.png</file>
+        <file>resources/Items/157_bloody_lust.png</file>
+        <file>resources/Items/158_crystal_ball.png</file>
+        <file>resources/Items/159_spirit_of_the_night.png</file>
+        <file>resources/Items/15_heart.png</file>
+        <file>resources/Items/160_crack_the_sky.png</file>
+        <file>resources/Items/161_ankh.png</file>
+        <file>resources/Items/162_celtic_cross.png</file>
+        <file>resources/Items/163_ghost_baby.png</file>
+        <file>resources/Items/164_the_candle.png</file>
+        <file>resources/Items/165_cat_o_nine_tails.png</file>
+        <file>resources/Items/166_d20.png</file>
+        <file>resources/Items/167_harlequin_baby.png</file>
+        <file>resources/Items/168_epic_fetus.png</file>
+        <file>resources/Items/169_polyphemus.png</file>
+        <file>resources/Items/16_raw_liver.png</file>
+        <file>resources/Items/170_daddy_longlegs.png</file>
+        <file>resources/Items/171_spider_butt.png</file>
+        <file>resources/Items/172_sacraficial_dagger.png</file>
+        <file>resources/Items/173_mitre.png</file>
+        <file>resources/Items/174_rainbow_baby.png</file>
+        <file>resources/Items/175_dads_key.png</file>
+        <file>resources/Items/176_stem_cells.png</file>
+        <file>resources/Items/177_portable_slot.png</file>
+        <file>resources/Items/178_holy_water.png</file>
+        <file>resources/Items/179_fate.png</file>
+        <file>resources/Items/17_skeleton_key.png</file>
+        <file>resources/Items/180_the_black_bean.png</file>
+        <file>resources/Items/181_white_pony.png</file>
+        <file>resources/Items/182_sacred_heart.png</file>
+        <file>resources/Items/183_tooth_picks.png</file>
+        <file>resources/Items/184_holy_grail.png</file>
+        <file>resources/Items/185_dead_dove.png</file>
+        <file>resources/Items/186_blood_rights.png</file>
+        <file>resources/Items/187_guppys_hairball.png</file>
+        <file>resources/Items/188_abel.png</file>
+        <file>resources/Items/189_smb_super_fan.png</file>
+        <file>resources/Items/18_a_dollar.png</file>
+        <file>resources/Items/190_pyro.png</file>
+        <file>resources/Items/191_3_dollar_bill.png</file>
+        <file>resources/Items/192_telepathy_for_dummies.png</file>
+        <file>resources/Items/193_meat.png</file>
+        <file>resources/Items/194_magic_8_ball.png</file>
+        <file>resources/Items/195_moms_coin_purse.png</file>
+        <file>resources/Items/196_squeezy.png</file>
+        <file>resources/Items/197_jesus_juice.png</file>
+        <file>resources/Items/198_box.png</file>
+        <file>resources/Items/19_boom!.png</file>
+        <file>resources/Items/1_sad_onion.png</file>
+        <file>resources/Items/20_transcendence.png</file>
+        <file>resources/Items/21_the_compass.png</file>
+        <file>resources/Items/22_lunch.png</file>
+        <file>resources/Items/23_dinner.png</file>
+        <file>resources/Items/24_dessert.png</file>
+        <file>resources/Items/25_breakfast.png</file>
+        <file>resources/Items/26_rotten_meat.png</file>
+        <file>resources/Items/27_wooden_spoon.png</file>
+        <file>resources/Items/28_the_belt.png</file>
+        <file>resources/Items/29_moms_underwear.png</file>
+        <file>resources/Items/2_the_inner_eye.png</file>
+        <file>resources/Items/30_moms_heels.png</file>
+        <file>resources/Items/31_moms_lipstick.png</file>
+        <file>resources/Items/32_wire_coat_hanger.png</file>
+        <file>resources/Items/33_the_bible.png</file>
+        <file>resources/Items/34_the_book_of_belial.png</file>
+        <file>resources/Items/35_the_necronomicon.png</file>
+        <file>resources/Items/36_the_poop.png</file>
+        <file>resources/Items/37_mr_boom.png</file>
+        <file>resources/Items/38_tammys_head.png</file>
+        <file>resources/Items/39_moms_bra.png</file>
+        <file>resources/Items/3_spoon_bender.png</file>
+        <file>resources/Items/40_kamikaze.png</file>
+        <file>resources/Items/41_moms_pad.png</file>
+        <file>resources/Items/42_bobs_rotten_head.png</file>
+        <file>resources/Items/44_teleport.png</file>
+        <file>resources/Items/45_yum_heart.png</file>
+        <file>resources/Items/46_lucky_foot.png</file>
+        <file>resources/Items/47_doctors_remote.png</file>
+        <file>resources/Items/48_cupids_arrow.png</file>
+        <file>resources/Items/49_shoop_da_whoop.png</file>
+        <file>resources/Items/4_maxs_head.png</file>
+        <file>resources/Items/50_steven.png</file>
+        <file>resources/Items/51_pentagram.png</file>
+        <file>resources/Items/52_dr_fetus.png</file>
+        <file>resources/Items/53_magneto.png</file>
+        <file>resources/Items/54_treasure_map.png</file>
+        <file>resources/Items/55_moms_eye.png</file>
+        <file>resources/Items/56_lemon_mishap.png</file>
+        <file>resources/Items/57_distant_admiration.png</file>
+        <file>resources/Items/58_book_of_shadows.png</file>
+        <file>resources/Items/59_wiggle_worm.png</file>
+        <file>resources/Items/5_my_reflection.png</file>
+        <file>resources/Items/60_the_ladder.png</file>
+        <file>resources/Items/62_charm_of_the_vampire.png</file>
+        <file>resources/Items/63_the_battery.png</file>
+        <file>resources/Items/64_steam_sale.png</file>
+        <file>resources/Items/65_anarchist_cookbook.png</file>
+        <file>resources/Items/66_the_hourglass.png</file>
+        <file>resources/Items/67_sister_maggy.png</file>
+        <file>resources/Items/68_technology.png</file>
+        <file>resources/Items/69_chocolate_milk.png</file>
+        <file>resources/Items/6_number_one.png</file>
+        <file>resources/Items/70_growth_hormones.png</file>
+        <file>resources/Items/71_mini_mush.png</file>
+        <file>resources/Items/72_rosary.png</file>
+        <file>resources/Items/73_cube_of_meat.png</file>
+        <file>resources/Items/74_a_quarter.png</file>
+        <file>resources/Items/75_PHD.png</file>
+        <file>resources/Items/76_xray_vision.png</file>
+        <file>resources/Items/77_my_little_unicorn.png</file>
+        <file>resources/Items/78_book_of_revelations.png</file>
+        <file>resources/Items/79_the_mark.png</file>
+        <file>resources/Items/7_blood_of_the_martyr.png</file>
+        <file>resources/Items/80_the_pact.png</file>
+        <file>resources/Items/81_dead_cat.png</file>
+        <file>resources/Items/82_lord_of_the_pit.png</file>
+        <file>resources/Items/83_the_nail.png</file>
+        <file>resources/Items/84_we_need_to_go_deeper.png</file>
+        <file>resources/Items/85_deck_of_cards.png</file>
+        <file>resources/Items/86_monstros_tooth.png</file>
+        <file>resources/Items/87_lokis_horns.png</file>
+        <file>resources/Items/88_lil_chubby.png</file>
+        <file>resources/Items/89_spider_bite.png</file>
+        <file>resources/Items/8_brother_bobby.png</file>
+        <file>resources/Items/90_the_small_rock.png</file>
+        <file>resources/Items/91_spelunker_hat.png</file>
+        <file>resources/Items/92_super_bandage.png</file>
+        <file>resources/Items/93_the_gamekid.png</file>
+        <file>resources/Items/94_sack_of_pennies.png</file>
+        <file>resources/Items/95_robo_baby.png</file>
+        <file>resources/Items/96_little_chad.png</file>
+        <file>resources/Items/97_the_book_of_sin.png</file>
+        <file>resources/Items/98_the_relic.png</file>
+        <file>resources/Items/99_little_gish.png</file>
+        <file>resources/Items/9_skatole.png</file>
+        <file>resources/Items/nocrown.png</file>
+        <file>resources/Items/yescrown.png</file>
+        <file>resources/Trinkets/29.png</file>
+        <file>resources/Trinkets/30.png</file>
+        <file>resources/Trinkets/31.png</file>
+        <file>resources/Trinkets/32.png</file>
+        <file>resources/Trinkets/33.png</file>
+        <file>resources/Trinkets/34.png</file>
+        <file>resources/Trinkets/35.png</file>
+        <file>resources/Trinkets/36.png</file>
+        <file>resources/Trinkets/37.png</file>
+        <file>resources/Trinkets/38.png</file>
+        <file>resources/Trinkets/39.png</file>
+        <file>resources/Trinkets/40.png</file>
+        <file>resources/Trinkets/41.png</file>
+        <file>resources/Trinkets/42.png</file>
+        <file>resources/Trinkets/43.png</file>
+        <file>resources/Trinkets/44.png</file>
+        <file>resources/Trinkets/45.png</file>
+        <file>resources/Trinkets/46.png</file>
+        <file>resources/Trinkets/47.png</file>
+        <file>resources/Trinkets/48.png</file>
+        <file>resources/Trinkets/49.png</file>
+        <file>resources/Trinkets/50.png</file>
+        <file>resources/Trinkets/51.png</file>
+        <file>resources/Trinkets/52.png</file>
+        <file>resources/Trinkets/53.png</file>
+        <file>resources/Trinkets/54.png</file>
+        <file>resources/Trinkets/55.png</file>
+        <file>resources/Trinkets/56.png</file>
+        <file>resources/Trinkets/57.png</file>
+        <file>resources/Trinkets/58.png</file>
+        <file>resources/Trinkets/59.png</file>
+        <file>resources/Trinkets/60.png</file>
+        <file>resources/Trinkets/61.png</file>
+        <file>resources/chapel.png</file>
+        <file>resources/library.png</file>
+        <file>resources/stone_corridor.png</file>
+        <file>resources/stone_corridor_2.png</file>
+        <file>resources/warrens.png</file>
+        <file>resources/ZorkBackground.png</file>
+        <file>resources/Bonus/the end.png</file>
+        <file>resources/Quit.png</file>
+        <file>resources/Start.png</file>
+        <file>resources/Characters/Vampire.png</file>
+    </qresource>
+</RCC>

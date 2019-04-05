@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>resources/ic_arrow_back_black_48dp_1x.png</file>
+        <file>resources/ic_arrow_back_black_48dp_2x.png</file>
+        <file>resources/ic_arrow_downward_black_48dp_1x.png</file>
+        <file>resources/ic_arrow_downward_black_48dp_2x.png</file>
+        <file>resources/ic_arrow_forward_black_48dp_1x.png</file>
+        <file>resources/ic_arrow_forward_black_48dp_2x.png</file>
+        <file>resources/ic_arrow_upward_black_48dp_1x.png</file>
+        <file>resources/ic_arrow_upward_black_48dp_2x.png</file>
+        <file>resources/ZorkBackground.jpg</file>
+    </qresource>
+</RCC>
